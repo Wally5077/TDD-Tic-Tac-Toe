@@ -36,6 +36,7 @@ public class TicTacToe {
     }
 
     public int getWinner() {
+
         for (int row = 0; row < 3; row++) {
             if (board[row][0] == CIRCLE) {
                 for (int col = 1; col < 3; col++) {
