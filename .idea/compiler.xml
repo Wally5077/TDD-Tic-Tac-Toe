@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="tdd-tic-tac-toe" target="10" />
+      <module name="tdd-tic-tac-toe" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
